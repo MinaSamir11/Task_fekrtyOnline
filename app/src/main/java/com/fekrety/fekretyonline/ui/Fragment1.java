@@ -13,7 +13,7 @@ import android.widget.Toast;
 import androidx.fragment.app.Fragment;
 
 import com.fekrety.fekretyonline.Adapters.FilterAdapter;
-import com.fekrety.fekretyonline.JasonPlaceHolderApi;
+import com.fekrety.fekretyonline.Model.JasonPlaceHolderApi;
 import com.fekrety.fekretyonline.R;
 import com.fekrety.fekretyonline.Model.item;
 

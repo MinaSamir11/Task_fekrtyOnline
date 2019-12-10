@@ -1,4 +1,4 @@
-package com.fekrety.fekretyonline;
+package com.fekrety.fekretyonline.Dialogs;
 
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -13,7 +13,10 @@ import android.widget.Toast;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatDialogFragment;
 
+import com.fekrety.fekretyonline.Model.JasonPlaceHolderApi;
 import com.fekrety.fekretyonline.Model.item;
+import com.fekrety.fekretyonline.PicassoClient;
+import com.fekrety.fekretyonline.R;
 import com.fekrety.fekretyonline.ui.Fragment1;
 
 import retrofit2.Call;

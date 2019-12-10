@@ -34,7 +34,7 @@ import androidx.core.app.ActivityCompat;
 import androidx.fragment.app.Fragment;
 
 import com.fekrety.fekretyonline.Model.item;
-import com.fekrety.fekretyonline.JasonPlaceHolderApi;
+import com.fekrety.fekretyonline.Model.JasonPlaceHolderApi;
 import com.fekrety.fekretyonline.R;
 import com.google.android.material.textfield.TextInputEditText;
 

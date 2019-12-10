@@ -1,4 +1,4 @@
-package com.fekrety.fekretyonline;
+package com.fekrety.fekretyonline.Model;
 
 import com.fekrety.fekretyonline.Model.item;
 

@@ -16,8 +16,8 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.fekrety.fekretyonline.Adapters.ListItemAdapter;
-import com.fekrety.fekretyonline.DialogFeedback;
-import com.fekrety.fekretyonline.JasonPlaceHolderApi;
+import com.fekrety.fekretyonline.Dialogs.DialogFeedback;
+import com.fekrety.fekretyonline.Model.JasonPlaceHolderApi;
 import com.fekrety.fekretyonline.R;
 import com.fekrety.fekretyonline.Model.item;
 
