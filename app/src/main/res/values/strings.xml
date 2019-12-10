@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fekrety Online</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Items</string>
+    <string name="tab_text_3">Registration</string>
+    <string name="Sign_Out">Sign out</string>
+    <string name="cancel_item">Cancel</string>
+    <string name="Take_photo_item">Take Photo</string>
+    <string name="add_photo_title">Add Photo</string>
+    <string name="Choose_from_Galelry_item">Choose from Gallery</string>
+    <string name="Remove_item">Remove</string>
+
+</resources>
